@@ -1,0 +1,25 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.17.3",
+    "creation time": "2019-05-22 18:02:10.313868",
+    "dataset_id": "20190521-232509-e996",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.1",
+    "framework": "caffe",
+    "id": "20190522-180210-60aa",
+    "image dimensions": [
+        640,
+        640,
+        3
+    ],
+    "job id": "20190522-180210-60aa",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "none",
+    "model file": "original.prototxt",
+    "name": "DetectNet-DNN-BoxingGloves-2.2-640x640-2.5e-05lr",
+    "snapshot file": "snapshot_iter_35000.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "sonyalo"
+}
